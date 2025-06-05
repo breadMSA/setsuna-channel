@@ -2461,11 +2461,5 @@
     "model": "gemini",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
-  },
-  "1380161083746029641": {
-    "messageHistory": [],
-    "model": "cerebras",
-    "groqModel": "gemma2-9b-it",
-    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
 }
