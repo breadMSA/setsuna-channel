@@ -783,61 +783,6 @@
   "1373661229574389760": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "[braidenexe]: 這個可以再說一次嗎 我有點忘了",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "啥東西啊，沒頭沒腦的。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 這個問題可以再回答一次嗎 我有點忘了",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "你問了啥我都忘了，重新問吧。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 姊姊",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "喊這麼親熱幹嘛，別勾引我。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 嘿嘿",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "裝可愛沒用喔。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 你能不能幫我洗一個東西",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "啥東西啊，別來煩我。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 喜歡我",
-        "author": "braidenexe"
-      },
-      {
         "role": "assistant",
         "content": "別肉麻啦，正常點。",
         "author": "Setsuna"
@@ -1030,6 +975,61 @@
       {
         "role": "user",
         "content": "[braidenexe]: 你在嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n幹嘛齁，一直閃電問。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Cerebras with model llama-4-scout-17b-16e-instruct in <#1373661229574389760>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 可以考考你嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "考倒我算了，隨便問吧。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這則訊息是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "braidenexe 自己啦，別裝傻。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 內容是什麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "就是你傳的訊息啊，問我能不能考你。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這則訊息的內容是甚麼",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "亦步亦趨啦，之前聊成語接龍的時候你傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe 回覆 Setsuna 的訊息: \"趨之若鶩。\"] 那這個是誰傳的",
         "author": "braidenexe"
       }
     ],
@@ -2459,6 +2459,12 @@
   "1378687033563680768": {
     "messageHistory": [],
     "model": "gemini",
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
+  },
+  "1380161083746029641": {
+    "messageHistory": [],
+    "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
