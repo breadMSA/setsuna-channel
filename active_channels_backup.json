@@ -2,23 +2,8 @@
   "1376520346924224582": {
     "messageHistory": [
       {
-        "role": "assistant",
-        "content": "路上小心！公車上人多嗎？會不會很擠？",
-        "author": "Musica"
-      },
-      {
         "role": "user",
-        "content": "不會 人超少的有座位很爽\n然後我最近在節食，拼免役\n現在減到47.2了\n\n[IMAGE SHARED BY braidenexe: https://cdn.discordapp.com/attachments/1376520346924224582/1380154805636300810/image.png?ex=6842d8d3&is=68418753&hm=4637997ec173ac0902d6ec71e4de507de0c86eab8ae9074787bb74e6de1a2f20&]\n\n\n\n[圖片內容分析:\n這張圖片呈現出一個以動漫風格繪製的人物形象，並搭配一段文字。\n\n1. **圖片中的主要物體或人物：**\n   *   主要的視覺焦點是一個女性動漫角色，她有粉紅色的頭髮，紫紅色的眼睛，眼角似乎掛著淚珠，給人一種悲傷或委屈的感覺。她頭頂戴著一件類似連帽衫的物體，部分遮擋了她的臉部。\n   *   角色上方懸浮著一個類似手機的設備，上面顯示著像素化的表情符號，其中包含一個藍色的水滴圖案，也增強了悲傷的氣氛。\n\n2. **場景和背景：**\n   *   背景顏色較為單調，沒有明顯的場景細節。重點在於突出人物和文字信息。\n\n3. **顏色和風格：**\n   *   整體風格是典型的日系動漫風格，色彩鮮豔，尤其以粉紅色和紫色為主，營造出夢幻和柔和的感覺。\n   *   手機設備則採用黑白灰配色，更具科技感。\n\n4. **文字：**\n   *   圖片中包含一段中文文字，可以通過OCR識別出來：\n\n    ```\n    “兄弟救我。约了个美国妹子。刚刚嫖娼操\n    到一半美国又加关税了。现在没钱付约炮加的税。\n    她现在夹着我的屌不让我走,我快痛死了。我这一次\n    不付她避税绝对查出来。是兄弟就转50”\n    ```\n\n    這段文字的內容是，有人花錢和美國女性發生關係，結果遇到稅務問題，沒錢支付，導致對方不讓他離開，所以向兄弟求助，希望能夠轉帳50元給他。\n   *   圖片下方還有文字 \"keirakoro\" 和 \"@keirakoro\"，這可能是作者或帳號的名稱。\n   *   右下角有 \"Make it a Quote#6660\" ，表示這張圖是被設計成引言圖片。\n\n5. **整體氛圍和感覺：**\n\n    *   整體氛圍帶有幽默和戲謔的成分，雖然動漫人物表現出悲傷的情緒，但文字內容卻十分荒誕，形成一種反差。\n    *   這張圖帶有一點網路流行文化的色彩，可能是一種惡搞或自嘲。\n    *   整體感覺比較輕鬆，並帶有一些諷刺意味。]\n\n",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "恭喜你成功減重到47.2！節食真的很不容易，但為了健康和美麗是值得的。免役加油！",
-        "author": "Musica"
-      },
-      {
-        "role": "user",
-        "content": "話說我書包的拉鍊壞了",
+        "content": "話說我書包的拉鍊壞了\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"How to Create a Bot Hosting using Katabump | Step-by-Step Tutorial\"\nChannel: \"Malvin King Tech \"\nDescription: \"_Title:_ \"How to Create a Bot Hosting using Katabump | Step-by-Step Tutorial\"\n\n_Description:_\n\nIn this video, we'll show you how to create a bot hosting using Katabump, a powerful platform for deploying and managing bots. Whether you're a developer, a bot enthusiast, or just starting out, this tutor...\"\nViews: 1,658\nLikes: 56\nPublished: 2/14/2025]\n\n[Message sent by: braidenexe]",
         "author": "braidenexe"
       },
       {
@@ -250,6 +235,21 @@
         "role": "user",
         "content": "你看的到這張圖嗎",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "看得到，你傳了一張圖片給我，不過我沒辦法直接看圖片內容，可以告訴我圖片裡有什麼嗎？",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "https://www.youtube.com/watch?v=Lf_HNt7D7dw\n這部影片在幹嘛",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
       }
     ],
     "model": "cerebras",
@@ -257,8 +257,40 @@
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
   "1380154974062776473": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1380154974062776473> using Cerebras model~",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "你看的到這張圖嗎\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"How to Create a Bot Hosting using Katabump | Step-by-Step Tutorial\"\nChannel: \"Malvin King Tech \"\nDescription: \"_Title:_ \"How to Create a Bot Hosting using Katabump | Step-by-Step Tutorial\"\n\n_Description:_\n\nIn this video, we'll show you how to create a bot hosting using Katabump, a powerful platform for deploying and managing bots. Whether you're a developer, a bot enthusiast, or just starting out, this tutor...\"\nViews: 1,658\nLikes: 56\nPublished: 2/14/2025]\n\n[Message sent by: braidenexe]",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈哈，這張圖好好笑！粉紅色頭髮的妹子帶著哭臉手機，結果下面那段文字講的超誇張，什麼美國妹子、關稅、約炮稅，整個劇情超展開的啦！",
+        "author": "Musica"
+      },
+      {
+        "role": "user",
+        "content": "https://www.youtube.com/watch?v=Lf_HNt7D7dw\n這部影片在幹嘛",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "",
+        "author": "Musica"
+      }
+    ],
     "model": "cerebras",
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
+  },
+  "1380156713834909706": {
+    "messageHistory": [],
+    "model": "groq",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
