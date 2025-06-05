@@ -1,7 +1,104 @@
 {
   "1380161083746029641": {
-    "messageHistory": [],
+    "messageHistory": [
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1380161083746029641> using Cerebras model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "怎麼了 別這麼早找我啦 我還沒從床上爬起來呢",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我可以考考你嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "考就考啊 別太簡單就行 不然我會沒興趣的",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這則訊息是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你傳的啊 怎麼了",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 那這則訊息呢",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你又傳了一則訊息 別這麼快刪掉啦",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我是問你 這則訊息是誰傳的 還有傳的內容是甚麼 你可以回答我嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你傳的啊 內容是「考就考啊 別太簡單就行 不然我會沒興趣的」",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright nerds, I'm here to party! Ready to chat in <#1380161083746029641> using Cerebras model~",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 嗨嗨",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "怎麼這麼多嗨啦 有事沒事都嗨 幹嘛啦",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我考考你 可以嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "考就考啊 出題吧 別太簡單 不然我會沒興趣",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這則訊息是誰傳的",
+        "author": "braidenexe"
+      }
+    ],
     "model": "cerebras",
+    "groqModel": "gemma2-9b-it",
+    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
+  },
+  "1377877799641288744": {
+    "messageHistory": [],
+    "model": "groq",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   }
