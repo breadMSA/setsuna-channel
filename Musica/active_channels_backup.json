@@ -290,8 +290,8 @@
   },
   "1380156713834909706": {
     "messageHistory": [],
-    "model": "groq",
+    "model": "cerebras",
     "groqModel": "gemma2-9b-it",
-    "cerebrasModel": "llama-4-scout-17b-16e-instruct"
+    "cerebrasModel": "qwen-3-32b"
   }
 }
