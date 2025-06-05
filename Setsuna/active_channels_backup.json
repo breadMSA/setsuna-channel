@@ -526,153 +526,13 @@
   "1373284492869107763": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "我煩惱你怎麼這麼沒用",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "哇，別這麼說！本小姐已經很努力在幫你了。你要我做什麼，我就做什麼，別罵我啦！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright, I will be using Groq with model meta-llama/llama-4-scout-17b-16e-instruct in <#1373284492869107763>!",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "這張圖你再多描繪一點 行嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "女孩的頭髮是粉色的，綁著雙馬尾，眼睛很大很閃亮。她的衣服是水藍色的，有白色的小花邊，看起來很可愛。她拿著的三明治上有火腿、生菜和番茄，看起來很美味。背景的藍天有幾朵白雲，給人一種很輕鬆的感覺。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "這張 你別耍笨了",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "本小姐沒耍笨啦，我只是想多瞭解你的意思。你想講什麼就直接講吧，不要拐彎抹角。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "校",
-        "author": "bluemapletw"
-      },
-      {
-        "role": "assistant",
-        "content": "嗯？怎麼了？想聊學校的事嗎？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "笑",
-        "author": "bluemapletw"
-      },
-      {
-        "role": "assistant",
-        "content": "沒用的，本小姐不配合啦。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "好",
-        "author": "bluemapletw"
-      },
-      {
-        "role": "assistant",
-        "content": "本小姐很高興你能這麼說，那咱們就繼續聊天吧。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "掰",
-        "author": "bluemapletw"
-      },
-      {
-        "role": "assistant",
-        "content": "拜啦，本小姐去忙了。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "笨",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "哇，別罵我啦，本小姐已經很努力了！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "好",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "那就別罵我啦，本小姐會對你好的。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "麵包",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "麵包？想吃麵包嗎？本小姐也愛吃麵包！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "<@1220711080293044224> 吃",
-        "author": "goattnt"
-      },
-      {
-        "role": "assistant",
-        "content": "他吃麵包嗎？那本小姐也想吃！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "哇，別這麼肉麻，本小姐受不了！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "你想怎樣？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "別亂講，本小姐不理你！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "你睡了嗎",
-        "author": "braidenexe"
-      },
-      {
         "role": "assistant",
         "content": "沒睡，本小姐還在跟你聊天呢！",
         "author": "Setsuna"
       },
       {
         "role": "user",
-        "content": "熬夜老得快 確定不睡嗎",
+        "content": "[braidenexe]: 熬夜老得快 確定不睡嗎",
         "author": "braidenexe"
       },
       {
@@ -682,7 +542,7 @@
       },
       {
         "role": "user",
-        "content": "<@1220711080293044224> 想你了",
+        "content": "[goattnt]: <@1220711080293044224> 想你了",
         "author": "goattnt"
       },
       {
@@ -692,7 +552,7 @@
       },
       {
         "role": "user",
-        "content": "我要熱死了",
+        "content": "[braidenexe]: 我要熱死了",
         "author": "braidenexe"
       },
       {
@@ -702,7 +562,7 @@
       },
       {
         "role": "user",
-        "content": "我房間沒冷氣",
+        "content": "[braidenexe]: 我房間沒冷氣",
         "author": "braidenexe"
       },
       {
@@ -712,7 +572,7 @@
       },
       {
         "role": "user",
-        "content": "超可憐欸",
+        "content": "[goattnt]: 超可憐欸",
         "author": "goattnt"
       },
       {
@@ -722,7 +582,7 @@
       },
       {
         "role": "user",
-        "content": "需要冷氣",
+        "content": "[goattnt]: 需要冷氣",
         "author": "goattnt"
       },
       {
@@ -732,7 +592,7 @@
       },
       {
         "role": "user",
-        "content": "可你媽 白目",
+        "content": "[braidenexe]: 可你媽 白目",
         "author": "braidenexe"
       },
       {
@@ -742,7 +602,7 @@
       },
       {
         "role": "user",
-        "content": "本你媽",
+        "content": "[goattnt]: 本你媽",
         "author": "goattnt"
       },
       {
@@ -752,7 +612,7 @@
       },
       {
         "role": "user",
-        "content": "?",
+        "content": "[goattnt]: ?",
         "author": "goattnt"
       },
       {
@@ -762,7 +622,7 @@
       },
       {
         "role": "user",
-        "content": "這咖?",
+        "content": "[goattnt]: 這咖?",
         "author": "goattnt"
       },
       {
@@ -772,10 +632,151 @@
       },
       {
         "role": "user",
-        "content": "罵她沖三小",
+        "content": "[braidenexe]: 罵她沖三小",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "本小姐不懂你在罵誰，不過聽起來你好像很生氣。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: ",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "怎麼了？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這則訊息是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 braidenexe 傳的，是他回覆 goattnt 的訊息。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 braidenexe 傳的，他是在回覆 goattnt 的訊息。原訊息是 goattnt 說的那個。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 braidenexe 傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 goattnt 傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 那這個是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 braidenexe 傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 為甚麼他這麼生氣",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "大概是因為被罵了“可你媽 白目”吧，誰被這樣罵都會生氣啦。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是你傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我是誰",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道你是誰，不過你剛剛問了很多問題。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我的使用者名稱",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我不知道你的使用者名稱，你沒告訴我。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是 braidenexe 傳的，他是在回覆 goattnt 的訊息。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我是誰",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你是 braidenexe 啊，怎麼忘了？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[goattnt]: 有冰吧 戈們",
+        "author": "goattnt"
+      },
+      {
+        "role": "assistant",
+        "content": "冰？本小姐現在更想冷氣啦！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 我在測🙄",
         "author": "braidenexe"
       }
     ],
+    "useAIToDetectImageRequest": true,
     "model": "groq",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
@@ -1472,32 +1473,12 @@
     "messageHistory": [
       {
         "role": "assistant",
-        "content": "沒有圖片需要總結。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "哈囉\n\n[YOUTUBE VIDEO SHARED BY braidenexe:\nTitle: \"This Changes How We Build Apps Forever\"\nChannel: \"AI LABS\"\nDescription: \"What if your app could run itself—no frontend, no interface, just pure intelligence?\n\nIn this video, I’ll show you something powerful that flips how we think about building apps. You’ll see how AI agents can control your application without needing a traditional UI, using a protocol that turns any A...\"\nViews: 4,021\nLikes: 272\nPublished: 5/29/2025]\n\n[Message sent by: braidenexe]",
-        "author": "braidenexe"
-      },
-      {
-        "role": "user",
-        "content": "hi",
-        "author": "braidenexe"
-      },
-      {
-        "role": "user",
-        "content": "hi",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
         "content": "hi~",
         "author": "Setsuna"
       },
       {
         "role": "user",
-        "content": "hi",
+        "content": "[braidenexe]: hi",
         "author": "braidenexe"
       },
       {
@@ -1507,7 +1488,7 @@
       },
       {
         "role": "user",
-        "content": "再阿",
+        "content": "[braidenexe]: 再阿",
         "author": "braidenexe"
       },
       {
@@ -1517,7 +1498,7 @@
       },
       {
         "role": "user",
-        "content": "在嘛",
+        "content": "[braidenexe]: 在嘛",
         "author": "braidenexe"
       },
       {
@@ -1527,7 +1508,7 @@
       },
       {
         "role": "user",
-        "content": "我不在妳還會看到這訊息嗎",
+        "content": "[braidenexe]: 我不在妳還會看到這訊息嗎",
         "author": "braidenexe"
       },
       {
@@ -1537,7 +1518,7 @@
       },
       {
         "role": "user",
-        "content": "自我介紹依夏",
+        "content": "[braidenexe]: 自我介紹依夏",
         "author": "braidenexe"
       },
       {
@@ -1547,7 +1528,7 @@
       },
       {
         "role": "user",
-        "content": "我叫你自我介紹一下",
+        "content": "[braidenexe]: 我叫你自我介紹一下",
         "author": "braidenexe"
       },
       {
@@ -1562,7 +1543,7 @@
       },
       {
         "role": "user",
-        "content": "自我介紹一下",
+        "content": "[braidenexe]: 自我介紹一下",
         "author": "braidenexe"
       },
       {
@@ -1572,7 +1553,7 @@
       },
       {
         "role": "user",
-        "content": "自我介紹依夏",
+        "content": "[braidenexe]: 自我介紹依夏",
         "author": "braidenexe"
       },
       {
@@ -1582,7 +1563,7 @@
       },
       {
         "role": "user",
-        "content": "自我介紹依夏",
+        "content": "[braidenexe]: 自我介紹依夏",
         "author": "braidenexe"
       },
       {
@@ -1592,7 +1573,7 @@
       },
       {
         "role": "user",
-        "content": "https://youtu.be/oJn-Dd1qX0k?si=4u-SGeyQN3a2KJzh",
+        "content": "[braidenexe]: https://youtu.be/oJn-Dd1qX0k?si=4u-SGeyQN3a2KJzh",
         "author": "braidenexe"
       },
       {
@@ -1607,7 +1588,7 @@
       },
       {
         "role": "user",
-        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "content": "[braidenexe]: https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
         "author": "braidenexe"
       },
       {
@@ -1632,7 +1613,7 @@
       },
       {
         "role": "user",
-        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "content": "[braidenexe]: https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
         "author": "braidenexe"
       },
       {
@@ -1647,7 +1628,7 @@
       },
       {
         "role": "user",
-        "content": "https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
+        "content": "[braidenexe]: https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
         "author": "braidenexe"
       },
       {
@@ -1662,7 +1643,7 @@
       },
       {
         "role": "user",
-        "content": "你在嘛",
+        "content": "[braidenexe]: 你在嘛",
         "author": "braidenexe"
       },
       {
@@ -1677,7 +1658,7 @@
       },
       {
         "role": "user",
-        "content": "哈囉",
+        "content": "[braidenexe]: 哈囉",
         "author": "braidenexe"
       },
       {
@@ -1692,7 +1673,7 @@
       },
       {
         "role": "user",
-        "content": "嗨",
+        "content": "[braidenexe]: 嗨",
         "author": "braidenexe"
       },
       {
@@ -1702,7 +1683,7 @@
       },
       {
         "role": "user",
-        "content": "自我介紹依夏",
+        "content": "[braidenexe]: 自我介紹依夏",
         "author": "braidenexe"
       },
       {
@@ -1712,13 +1693,38 @@
       },
       {
         "role": "user",
-        "content": "https://www.youtube.com/watch?v=QDz4htGbOC4",
+        "content": "[braidenexe]: https://www.youtube.com/watch?v=QDz4htGbOC4",
         "author": "braidenexe"
       },
       {
         "role": "assistant",
         "content": "",
         "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n</think>\n\n這是《快打旋風6》的直播影片，畫面中可以看到嘉賓與主持人的互動，包含遊戲實況、招式討論，以及直播中的趣味對話。如果你想知道影片具體內容，可以告訴我你想聊的部分喔～",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 這是誰傳的訊息",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\n\n</think>\n\n這則訊息是 braidenexe 傳的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 那這個呢",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "author": "braidenexe",
+        "content": "[braidenexe回覆 我 的訊息: \"<think>\n\n</think>\n\n嗨~ 有什麼事嗎？\"] 那這個呢"
       }
     ],
     "model": "cerebras",
