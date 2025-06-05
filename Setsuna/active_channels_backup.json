@@ -1729,96 +1729,6 @@
     "messageHistory": [
       {
         "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這部影片教學如何使用遊戲街霸6裡面的「裂縫」招式。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 可以詳細一點嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "影片解説了街霸6中「肯」戰鬥角色的「裂縫」招式，包括招式的釋放方式、連招應用以及對抗其他角色的戰術。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Peace out! Catch you later in another channel maybe?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: b",
-        "author": "braidenexe"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: https://youtu.be/U0lYMb9A8c8?si=XsLVITaMXfDsDgZN\n這部影片在講甚麼",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "This video is a Street Fighter 6 tutorial by \"淡水人(Wild Tamsuinese)\" about the Ken character's \"Drive Rush\" mechanic.  It covers combos,  offensive/defensive strategies, and how to use it against different playstyles.",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 幫我畫張圖吧，關於那部影片",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的描述生成的圖片：\n好的，我將為您繪製一張關於那部影片的高品質彩色圖片。為了更準確地呈現影片的內容，我會著重於捕捉影片的核心主題和視覺特徵，運用專業的構圖技巧和細膩的光影效果來營造氛圍。圖片將呈現豐富的色彩和適當的對比度，保證高解析度、清晰且細節豐富，風格一致且美觀，並且不包含任何文字或水印。\n\n [IMAGE_GENERATED]",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 幫我畫張圖吧，關於那部影片。畫面上不可以出現文字",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的描述生成的圖片：\n好的，這是一張根據您的描述創作的圖像，它將是一部影片的視覺詮釋，運用專業的構圖和光影效果，呈現豐富的色彩和細節，並且畫面中不會有任何文字。\n\n [IMAGE_GENERATED]",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 可以改成黑白的嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這是修改後的圖片：",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 可以改成右上角有太陽嗎",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
         "content": "正在轉換圖片，請稍候...",
         "author": "Setsuna"
       },
@@ -1829,7 +1739,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 圖片裡的人是誰呀",
+        "content": "[使用者]: 圖片裡的人是誰呀",
         "author": "braidenexe"
       },
       {
@@ -1839,7 +1749,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 我是說這則圖片，現在這則",
+        "content": "[使用者]: 我是說這則圖片，現在這則",
         "author": "braidenexe"
       },
       {
@@ -1849,7 +1759,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 你看的到他的名字嗎?",
+        "content": "[使用者]: 你看的到他的名字嗎?",
         "author": "braidenexe"
       },
       {
@@ -1859,7 +1769,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 嗨",
+        "content": "[使用者]: 嗨",
         "author": "braidenexe"
       },
       {
@@ -1869,7 +1779,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 講中文",
+        "content": "[使用者]: 講中文",
         "author": "braidenexe"
       },
       {
@@ -1879,7 +1789,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 在搞基",
+        "content": "[使用者]: 在搞基",
         "author": "braidenexe"
       },
       {
@@ -1889,7 +1799,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 你別聽到這個就來勁 像個腐女似的",
+        "content": "[使用者]: 你別聽到這個就來勁 像個腐女似的",
         "author": "braidenexe"
       },
       {
@@ -1904,12 +1814,12 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 嗨",
+        "content": "[使用者]: 嗨",
         "author": "braidenexe"
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 哈囉",
+        "content": "[使用者]: 哈囉",
         "author": "braidenexe"
       },
       {
@@ -1919,7 +1829,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 嗨",
+        "content": "[使用者]: 嗨",
         "author": "braidenexe"
       },
       {
@@ -1934,7 +1844,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 哈囉啊",
+        "content": "[使用者]: 哈囉啊",
         "author": "braidenexe"
       },
       {
@@ -1949,7 +1859,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 早安",
+        "content": "[使用者]: 早安",
         "author": "braidenexe"
       },
       {
@@ -1959,7 +1869,7 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 幫我總結一下\nhttps://www.youtube.com/watch?v=QDz4htGbOC4",
+        "content": "[使用者]: 幫我總結一下\nhttps://www.youtube.com/watch?v=QDz4htGbOC4",
         "author": "braidenexe"
       },
       {
@@ -1974,11 +1884,106 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 你平常喜歡畫畫嗎",
+        "content": "[使用者]: 你平常喜歡畫畫嗎",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "偶爾啦，我算是個遊戲宅，平常都花時間在打電動、看動漫或是跟朋友聊天，沒啥時間畫畫。不過我倒是蠻喜歡塗鴉的啦，有時候會在紙上亂畫些東西。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 你平常喜歡畫畫嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "平常其實沒啥時間畫畫，不過我有時候會在筆記本上亂塗鴉，算是放鬆心情的一種方式啦。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 我是誰",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你是braidenexe啊，怎麼突然問這個？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 時間不早了",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "該回家了嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 嗯嗯，回我家嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "你現在在哪裡？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 在我家",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈哈，那還問啥，直接回家去囉！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 你真的要來我家？",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "別鬧，我哪有說要去你家！只是隨口說說的啦。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 這是誰打的",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是我打的啦～",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 這個呢",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這則訊息是braidenexe打的！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[使用者]: 最後一個，那這個呢",
+        "author": "braidenexe"
+      },
+      {
+        "role": "user",
+        "author": "braidenexe",
+        "content": "[使用者回覆 我 的訊息: \"圖片裡的人看起來像是一位年輕男性，他身穿白色外套，頭髮稍微長，並且戴著一頂棒球帽。\"] 最後一個，那這個呢"
       }
     ],
-    "useAIToDetectImageRequest": false,
+    "useAIToDetectImageRequest": true,
     "model": "cerebras",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
