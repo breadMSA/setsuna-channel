@@ -1727,6 +1727,7 @@
         "content": "[braidenexe回覆 我 的訊息: \"<think>\n\n</think>\n\n嗨~ 有什麼事嗎？\"] 那這個呢"
       }
     ],
+    "useAIToDetectImageRequest": true,
     "model": "cerebras",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b"
@@ -1734,108 +1735,8 @@
   "1376231152456699984": {
     "messageHistory": [
       {
-        "role": "assistant",
-        "content": "正在轉換圖片，請稍候...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的要求修改後的圖片：",
-        "author": "Setsuna"
-      },
-      {
         "role": "user",
-        "content": "[使用者]: 圖片裡的人是誰呀",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "根據影片和圖片，那個人應該是遊戲「街霸6」中角色「肯」",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 我是說這則圖片，現在這則",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "圖片裡的人看起來像是一位年輕男性，他身穿白色外套，頭髮稍微長，並且戴著一頂棒球帽。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 你看的到他的名字嗎?",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "沒有，我在圖片裡沒有看到他的名字.",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 嗨",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Heyo! What's up?\n\n\n\\",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 講中文",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "嘿!  最近在搞些啥？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 在搞基",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "喔？😏 什麼事讓你想搞基？  給我說細節一點嘛～😜",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 你別聽到這個就來勁 像個腐女似的",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "嚇！我才不是什麼腐女！🙄  我只是喜歡搞點樂子就是了😂 \n\nSeriously tho,  你想聊其他什麼呢？",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "Peace out! Catch you later in another channel maybe?",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 嗨",
-        "author": "braidenexe"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 哈囉",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "Alright nerds, I'm here to party! Ready to chat in <#1376231152456699984> using Cerebras model~",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[使用者]: 嗨",
+        "content": "[braidenexe]: 嗨",
         "author": "braidenexe"
       },
       {
@@ -1850,7 +1751,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 哈囉啊",
+        "content": "[braidenexe]: 哈囉啊",
         "author": "braidenexe"
       },
       {
@@ -1865,7 +1766,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 早安",
+        "content": "[braidenexe]: 早安",
         "author": "braidenexe"
       },
       {
@@ -1875,7 +1776,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 幫我總結一下\nhttps://www.youtube.com/watch?v=QDz4htGbOC4",
+        "content": "[braidenexe]: 幫我總結一下\nhttps://www.youtube.com/watch?v=QDz4htGbOC4",
         "author": "braidenexe"
       },
       {
@@ -1890,7 +1791,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 你平常喜歡畫畫嗎",
+        "content": "[braidenexe]: 你平常喜歡畫畫嗎",
         "author": "braidenexe"
       },
       {
@@ -1900,7 +1801,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 你平常喜歡畫畫嗎",
+        "content": "[braidenexe]: 你平常喜歡畫畫嗎",
         "author": "braidenexe"
       },
       {
@@ -1910,7 +1811,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 我是誰",
+        "content": "[braidenexe]: 我是誰",
         "author": "braidenexe"
       },
       {
@@ -1920,7 +1821,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 時間不早了",
+        "content": "[braidenexe]: 時間不早了",
         "author": "braidenexe"
       },
       {
@@ -1930,7 +1831,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 嗯嗯，回我家嗎",
+        "content": "[braidenexe]: 嗯嗯，回我家嗎",
         "author": "braidenexe"
       },
       {
@@ -1940,7 +1841,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 在我家",
+        "content": "[braidenexe]: 在我家",
         "author": "braidenexe"
       },
       {
@@ -1950,7 +1851,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 你真的要來我家？",
+        "content": "[braidenexe]: 你真的要來我家？",
         "author": "braidenexe"
       },
       {
@@ -1960,7 +1861,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 這是誰打的",
+        "content": "[braidenexe]: 這是誰打的",
         "author": "braidenexe"
       },
       {
@@ -1970,7 +1871,7 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 這個呢",
+        "content": "[braidenexe]: 這個呢",
         "author": "braidenexe"
       },
       {
@@ -1980,13 +1881,108 @@
       },
       {
         "role": "user",
-        "content": "[使用者]: 最後一個，那這個呢",
+        "content": "[braidenexe]: 最後一個，那這個呢",
         "author": "braidenexe"
       },
       {
+        "role": "assistant",
+        "content": "是回覆我的那則訊息啊，剛好是你描述圖片裡的人的時候！",
+        "author": "Setsuna"
+      },
+      {
         "role": "user",
-        "author": "braidenexe",
-        "content": "[使用者回覆 我 的訊息: \"圖片裡的人看起來像是一位年輕男性，他身穿白色外套，頭髮稍微長，並且戴著一頂棒球帽。\"] 最後一個，那這個呢"
+        "content": "[braidenexe]: 你喜歡畫畫嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "其實我不太喜歡畫畫，我比較喜歡玩遊戲和看動漫，畫畫對我來說是有點困難的。",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 沒關係，你隨便畫一張動漫圖，搞不好很好看",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的描述生成的圖片： [IMAGE_GENERATED]",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 把圖片中的文字去掉",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，我這就幫你轉換圖片！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "正在轉換圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的要求修改後的圖片：",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 在嘛",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "我在啦！怎麼了？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 你喜歡畫畫嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "其實我不太擅長畫畫，不過我很喜歡看別人畫的圖啦～",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 沒關係，可以畫一張動漫女生給我看嗎",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的描述生成的圖片：\n好的，這是一張高解析度的動漫風格女性角色插畫。畫面將呈現一位有著柔順長髮、眼神明亮、穿著細緻服裝的年輕女性。我會使用豐富且協調的色彩，搭配專業的光影效果來突顯角色的立體感和畫面氛圍。整體構圖將注重美感和視覺平衡，呈現出一個細節豐富且風格一致的動漫人物形象。\n\n [IMAGE_GENERATED]",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 真好看，紅暈加深一點",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "好的，我這就幫你轉換圖片！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "正在轉換圖片，請稍候...",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "這是根據你的要求修改後的圖片：",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 畫的真好，你其實蠻會畫畫的嘛",
+        "author": "braidenexe"
       }
     ],
     "useAIToDetectImageRequest": true,
