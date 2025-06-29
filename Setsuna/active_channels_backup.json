@@ -2266,26 +2266,6 @@
       },
       {
         "role": "user",
-        "content": "[braidenexe]: 要全黑的",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "正在轉換圖片，請稍候...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "這是根據你的要求修改後的圖片：",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
         "content": "[braidenexe]: 算了，頭髮換成白色好了",
         "author": "braidenexe"
       },
@@ -2498,10 +2478,30 @@
         "role": "user",
         "content": "[braidenexe]: 嗨",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "有啦！找本小姐幹嘛？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Hugging Face (zephyr-7b-beta) model in <#1377877799641288744>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Yup! 還在啊 還在等你的指示。你要我畫圖嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 沒有",
+        "author": "braidenexe"
       }
     ],
     "useAIToDetectImageRequest": true,
-    "model": "huggingface",
+    "model": "gemini",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
