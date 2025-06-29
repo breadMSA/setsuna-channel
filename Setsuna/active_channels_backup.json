@@ -2250,31 +2250,6 @@
   "1377877799641288744": {
     "messageHistory": [
       {
-        "role": "user",
-        "content": "[braidenexe]: 臉頰再紅潤一點",
-        "author": "braidenexe"
-      },
-      {
-        "role": "assistant",
-        "content": "好的，我這就幫你轉換圖片！",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "正在轉換圖片，請稍候...",
-        "author": "Setsuna"
-      },
-      {
-        "role": "assistant",
-        "content": "抱歉，處理圖片時出現錯誤，請稍後再試。",
-        "author": "Setsuna"
-      },
-      {
-        "role": "user",
-        "content": "[braidenexe]: 幫我畫一張漂亮的動漫妹子",
-        "author": "braidenexe"
-      },
-      {
         "role": "assistant",
         "content": "這是根據你的描述生成的圖片：\n我將生成一張高品質的動漫風格少女圖像。這位少女有著柔順的及腰棕色長髮，一雙明亮的水藍色大眼睛，皮膚白皙透亮。她穿著一件淡粉色的連衣裙，裙擺帶有精緻的蕾絲花邊，外搭一件米白色的針織外套。背景是柔和的淡黃色，光線從左上方照射下來，在她臉頰上形成溫柔的光暈，整體氛圍清新甜美。\n\n [IMAGE_GENERATED]",
         "author": "Setsuna"
@@ -2498,10 +2473,35 @@
         "role": "user",
         "content": "[braidenexe]: 哈囉阿",
         "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "哈囉～怎麼了？有什麼事嗎？",
+        "author": "Setsuna"
+      },
+      {
+        "role": "assistant",
+        "content": "Alright, I will be using Hugging Face (zephyr-7b-beta) model in <#1377877799641288744>!",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 哈囉阿",
+        "author": "braidenexe"
+      },
+      {
+        "role": "assistant",
+        "content": "嗨！",
+        "author": "Setsuna"
+      },
+      {
+        "role": "user",
+        "content": "[braidenexe]: 在嗎",
+        "author": "braidenexe"
       }
     ],
     "useAIToDetectImageRequest": true,
-    "model": "huggingface",
+    "model": "gemini",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
