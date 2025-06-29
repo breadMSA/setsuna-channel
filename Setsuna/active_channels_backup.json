@@ -2501,7 +2501,7 @@
       }
     ],
     "useAIToDetectImageRequest": true,
-    "model": "cerebras",
+    "model": "huggingface",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct"
   },
