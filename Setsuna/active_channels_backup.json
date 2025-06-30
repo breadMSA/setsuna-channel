@@ -110,7 +110,7 @@
     "useAIToDetectImageRequest": false
   },
   "1377877799641288744": {
-    "model": "together",
+    "model": "characterai",
     "groqModel": "gemma2-9b-it",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct",
     "customInstructions": null,
