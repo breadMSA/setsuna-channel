@@ -30,7 +30,7 @@
     "useAIToDetectImageRequest": false
   },
   "1373284492869107763": {
-    "model": "cerebras",
+    "model": "characterai",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "llama-4-scout-17b-16e-instruct",
     "customInstructions": null,
