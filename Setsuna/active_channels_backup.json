@@ -100,9 +100,6 @@
     "useAIToDetectImageRequest": true
   },
   "849313571187982386": {
-    "model": "gemini",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "cerebrasModel": "llama-4-scout-17b-16e-instruct",
     "customInstructions": null,
     "customRole": null,
     "customSpeakingStyle": null,
