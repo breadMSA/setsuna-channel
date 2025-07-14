@@ -100,7 +100,7 @@
     "useAIToDetectImageRequest": true
   },
   "849313571187982386": {
-    "model": "chatgpt",
+    "model": "gemini",
     "customInstructions": null,
     "customRole": null,
     "customSpeakingStyle": null,
