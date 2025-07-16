@@ -7,7 +7,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1372878262749102080": {
     "model": "groq",
@@ -17,7 +18,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1276362854127108207": {
     "model": "groq",
@@ -27,7 +29,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1373284492869107763": {
     "model": "characterai",
@@ -37,7 +40,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": true
+    "useAIToDetectImageRequest": true,
+    "caiChatId": null
   },
   "1373661229574389760": {
     "model": "cerebras",
@@ -47,7 +51,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1373871200224153642": {
     "model": "gemini",
@@ -57,7 +62,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1373883966641143848": {
     "model": "gemini",
@@ -67,7 +73,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1373924990214475816": {
     "model": "groq",
@@ -77,7 +84,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1373931921595437206": {
     "model": "cerebras",
@@ -87,7 +95,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": true
+    "useAIToDetectImageRequest": true,
+    "caiChatId": null
   },
   "1376231152456699984": {
     "model": "cerebras",
@@ -97,7 +106,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": true
+    "useAIToDetectImageRequest": true,
+    "caiChatId": null
   },
   "849313571187982386": {
     "model": "gemini",
@@ -105,7 +115,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1377877799641288744": {
     "model": "characterai",
@@ -115,7 +126,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": true
+    "useAIToDetectImageRequest": true,
+    "caiChatId": "Xbpp_CgcAmYyWPt3I1FPouOWyXJHp-vQoNkQMdDugng"
   },
   "1378687033563680768": {
     "model": "gemini",
@@ -125,7 +137,8 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   },
   "1380161083746029641": {
     "model": "cerebras",
@@ -135,6 +148,7 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   }
 }
