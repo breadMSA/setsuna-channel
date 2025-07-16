@@ -41,7 +41,7 @@
     "customSpeakingStyle": null,
     "customTextStructure": null,
     "useAIToDetectImageRequest": true,
-    "caiChatId": null
+    "caiChatId": "2ec937f3-1cbd-4524-baf1-86fd0582ac34"
   },
   "1373661229574389760": {
     "model": "cerebras",
