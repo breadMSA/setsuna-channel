@@ -157,7 +157,7 @@
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": false,
+    "useAIToDetectImageRequest": true,
     "caiChatId": "f641894f-d4bc-4fab-9dfc-2641e65bc1bf"
   },
   "1394960856722309161": {
