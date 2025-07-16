@@ -88,7 +88,7 @@
     "caiChatId": null
   },
   "1373931921595437206": {
-    "model": "cerebras",
+    "model": "characterai",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
     "cerebrasModel": "qwen-3-32b",
     "customInstructions": null,
