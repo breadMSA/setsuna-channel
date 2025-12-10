@@ -110,12 +110,11 @@
     "caiChatId": null
   },
   "849313571187982386": {
-    "model": "gemini",
     "customInstructions": null,
     "customRole": null,
     "customSpeakingStyle": null,
     "customTextStructure": null,
-    "useAIToDetectImageRequest": true,
+    "useAIToDetectImageRequest": false,
     "caiChatId": null
   },
   "1377877799641288744": {
