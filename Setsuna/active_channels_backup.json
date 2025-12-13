@@ -161,6 +161,7 @@
     "caiChatId": "8e12dc9f-2f25-477a-ad04-0600656c2f5c"
   },
   "1394960856722309161": {
+    "model": "chatgpt",
     "customInstructions": null,
     "customRole": null,
     "customSpeakingStyle": null,
