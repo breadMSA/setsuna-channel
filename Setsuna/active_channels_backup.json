@@ -21,17 +21,6 @@
     "useAIToDetectImageRequest": false,
     "caiChatId": null
   },
-  "1276362854127108207": {
-    "model": "characterai",
-    "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "cerebrasModel": "llama-4-scout-17b-16e-instruct",
-    "customInstructions": null,
-    "customRole": null,
-    "customSpeakingStyle": null,
-    "customTextStructure": null,
-    "useAIToDetectImageRequest": false,
-    "caiChatId": "578dd7d2-2792-496e-a42d-49f11717802d"
-  },
   "1373284492869107763": {
     "model": "characterai",
     "groqModel": "meta-llama/llama-4-scout-17b-16e-instruct",
