@@ -176,6 +176,7 @@
     "caiChatId": null
   },
   "1513745953713164338": {
+    "model": "gemini",
     "customInstructions": null,
     "customRole": null,
     "customSpeakingStyle": null,
