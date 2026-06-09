@@ -174,5 +174,13 @@
     "customTextStructure": null,
     "useAIToDetectImageRequest": false,
     "caiChatId": null
+  },
+  "1513745953713164338": {
+    "customInstructions": null,
+    "customRole": null,
+    "customSpeakingStyle": null,
+    "customTextStructure": null,
+    "useAIToDetectImageRequest": false,
+    "caiChatId": null
   }
 }
